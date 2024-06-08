@@ -1,0 +1,8 @@
+{
+  "name": "apercu-font",
+  "version": "1.0.0",
+  "description": "The Apercu font",
+  "main": "stylesheet.css",
+  "author": "Arthur Guiot",
+  "license": "MIT"
+}
